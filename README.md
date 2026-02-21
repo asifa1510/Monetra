@@ -16,7 +16,7 @@ Smart AI for bill tracking and expense monitoring.
 #### Tech Stack
 
 - n8n – Workflow automation and orchestration  
-- OpenAI API – AI-based data extraction and analysis  
+- Gemini API – AI-based data extraction and analysis  
 - Gmail API – Email monitoring and bill detection  
 - Google Sheets / PostgreSQL – Data storage  
 - Telegram API – Real-time alerts and notifications  
