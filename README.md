@@ -19,7 +19,7 @@ Smart AI system for automated bill tracking and expense intelligence.
 - Google Gemini API – AI-based extraction and reasoning  
 - Gmail API – Email monitoring  
 - Google Sheets / PostgreSQL – Data storage  
-- Telegram API – Real-time alerts  
+- twilio API – Real-time alerts vis WhatsApp 
 - Cron Jobs – Scheduled reports  
 ---
 **n8n workflow 1**:
