@@ -40,5 +40,14 @@ Smart AI system for automated bill tracking and expense intelligence.
 ### Whatsapp alert:
 
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/401d6f62-303d-4d0d-b1ee-29657822cf87" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/401d6f62-303d-4d0d-b1ee-29657822cf87" />
+
+>#### days before → send 3-Day reminder
+>#### 1 day before → send 1-Day reminder
+>#### Due day → send Due-Day reminder
+>#### And only if that stage hasn’t already been sent.
+>#### This avoids spam.
+
+### TODAYS DATE: 22nd feb (due day reminder)
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d3291870-8fac-49d8-856a-915c07a64e67" />
 
