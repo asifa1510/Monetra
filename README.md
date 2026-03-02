@@ -1,4 +1,4 @@
-## Monetra
+ ## Monetra
 
 Smart AI system for automated bill tracking and expense intelligence.
 
