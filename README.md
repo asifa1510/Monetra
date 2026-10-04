@@ -2,7 +2,7 @@
 
 Smart AI system for automated bill tracking and expense intelligence.
 
-#### Features
+#### Features 
 
 - Automatically scans Gmail for bills, invoices, and subscriptions  
 - Extracts amount, due date, category, and recurrence using AI  
